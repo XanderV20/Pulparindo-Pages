@@ -1,9 +1,9 @@
 # Getting Started with Create React App
 
 You'll need to install Node.js in order to use React. Once it's installed you can run this command to create a React app:
-'''
+```
 npx create-react-app name-of-folder-here
-'''
+```
 
 ## Available Scripts
 
