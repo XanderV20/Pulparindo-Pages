@@ -1,3 +1,5 @@
+## Pulparindo Pages was used as a demo for an Intro to Website Development Presentation given to the HackTX Fall 2023 hackathon attendees
+
 # Getting Started with Create React App
 
 You'll need to install Node.js in order to use React. Once it's installed you can run this command to create a React app:
